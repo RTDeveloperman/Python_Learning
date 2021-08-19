@@ -26,5 +26,5 @@ def search_ldap(server):
          else:
              break
 
-#Connect_ldap('192.168.0.7','internet.com\\rtahmasebi','RRRrrr123')
+#Connect_ldap('192.168.0.7','internet.com\\rtahmasebi','*********')
 search_ldap('192.168.0.7')
