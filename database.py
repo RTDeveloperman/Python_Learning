@@ -1,5 +1,5 @@
 import mysql.connector
-cnx = mysql.connector.connect(user='pyhton_user', password='6610557',
+cnx = mysql.connector.connect(user='pyhton_user', password='******',
                               host='127.0.0.1',
                               database='python_test')
 #       INsertDataBase
